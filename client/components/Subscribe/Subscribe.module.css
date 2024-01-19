@@ -1,9 +1,10 @@
+
 .subscribe{
     width: 100%;
 }
 
 .subscribe_box{
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
     padding:  8rem 0;
 
@@ -13,6 +14,7 @@
 }
 
 .subscribe_box_left h2{
+    font-size: 3rem;
     line-height: 0;
 }
 

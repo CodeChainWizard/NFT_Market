@@ -6,6 +6,11 @@ import Service from "./Service/Service";
 import BigNFTSilder from "./BigNFTSilder/BigNFTSilder";
 import Subscribe from "./Subscribe/Subscribe";
 import Title from "./Title/Title";
+import Category from "./Category/Category";
+import Filter from "./Filter/Filter";
+import NFTCard from "./NFTCard/NFTCard";
+import Collection from "./Collection/Collection";
+import FollowerTab from "./FollowerTab/FollowerTab";
 
 export {
   Button,
@@ -16,4 +21,9 @@ export {
   BigNFTSilder,
   Subscribe,
   Title,
+  Category,
+  Filter,
+  NFTCard,
+  Collection,
+  FollowerTab,
 };

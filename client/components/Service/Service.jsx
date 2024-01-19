@@ -15,6 +15,7 @@ const Service = () => {
             alt="Filter & Discover"
             width={100}
             height={100}
+            className={Style.service_box_item_img}
           />
           <p className={Style.service_box_item_step}>
             <span>Step 1</span>
@@ -32,6 +33,7 @@ const Service = () => {
             alt="Filter & Discover"
             width={100}
             height={100}
+            className={Style.service_box_item_img}
           />
           <p className={Style.service_box_item_step}>
             <span>Step 1</span>
@@ -49,6 +51,7 @@ const Service = () => {
             alt="Connect Wallet"
             width={100}
             height={100}
+            className={Style.service_box_item_img}
           />
           <p className={Style.service_box_item_step}>
             <span>Step 1</span>
@@ -66,6 +69,7 @@ const Service = () => {
             alt="Connect Wallet"
             width={100}
             height={100}
+            className={Style.service_box_item_img}
           />
           <p className={Style.service_box_item_step}>
             <span>Step 1</span>

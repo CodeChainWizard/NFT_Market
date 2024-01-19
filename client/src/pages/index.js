@@ -8,6 +8,11 @@ import {
   BigNFTSilder,
   Subscribe,
   Title,
+  Category,
+  Filter,
+  NFTCard,
+  Collection,
+  FollowerTab,
 } from "components/component_index";
 
 const Home = () => {
@@ -17,9 +22,26 @@ const Home = () => {
       <Service />
       <BigNFTSilder />
       <Title
+        heading={"New Collection"}
+        paragraph={
+          "NFTs are unique digital assets that are stored on a blockchain, a decentralized and secure digital ledger. "
+        }
+      />
+      <FollowerTab />
+      <Collection />
+      <Title
+        heading={"Featured NFTs"}
+        paragraph={
+          "NFTs are unique digital assets that are stored on a blockchain, a decentralized and secure digital ledger. "
+        }
+      />
+      <Filter />
+      <NFTCard />
+      <Title
         heading={"Browse by category"}
         paraghaph={"Explore the NFTs is the most featured categories..."}
       />
+      <Category />
       <Subscribe />
     </div>
   );
