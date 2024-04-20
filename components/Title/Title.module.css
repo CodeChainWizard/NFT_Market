@@ -1,0 +1,59 @@
+.title {
+  width: 100%;
+}
+
+.title_box {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.title_box h2 {
+  font-size: 3rem;
+  line-height: 0;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 425px) {
+  .title {
+    width: 100%;
+  }
+
+  .title_box {
+    width: 80%;
+    margin: 3rem 80%;
+  }
+
+  .title_box h2 {
+    font-size: 1.8rem;
+    line-height: 0;
+  }
+}
+@media screen and (min-device-width: 426px) and (max-device-width: 768px) {
+  .title {
+    width: 100%;
+  }
+
+  .title_box {
+    width: 80%;
+    margin: 3rem 95%;
+  }
+
+  .title_box h2 {
+    font-size: 1.8rem;
+    line-height: 0;
+  }
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .title {
+    width: 100%;
+  }
+
+  .title_box {
+    width: 80%;
+    margin: 3rem 70%;
+  }
+
+  .title_box h2 {
+    font-size: 1.8rem;
+    line-height: 0;
+  }
+}
