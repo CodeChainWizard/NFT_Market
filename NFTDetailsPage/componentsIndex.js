@@ -1,6 +1,6 @@
 import NFTDescription from "./NFTDescription/NFTDescription";
 import NFTDetailsImage from "./NFTDetailsImage/NFTDetailsImage";
 import NFTTaps from "./NFTTaps/NFTTaps";
-import NFtDetailsPage from "./NFtDetailsPage.jsx";
+import NFTDetailsPage from "./NFTDetailsPage";
 
-export { NFTDescription, NFTTaps, NFTDetailsImage, NFtDetailsPage };
+export { NFTDescription, NFTTaps, NFTDetailsImage, NFTDetailsPage };
