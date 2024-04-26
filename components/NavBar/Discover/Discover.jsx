@@ -25,6 +25,14 @@ function Discover() {
     },
     {
       name: "Account Setting",
+      link: "account",
+    },
+    {
+      name: "Upload NFT",
+      link: "uploadNFT",
+    },
+    {
+      name: "Account Setting",
       link: "account-setting",
     },
     {
