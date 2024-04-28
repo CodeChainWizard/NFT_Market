@@ -50,6 +50,7 @@ import provider1 from "./provider-1.png";
 import provider2 from "./provider-2.png";
 import provider3 from "./provider-3.png";
 import provider4 from "./provider-4.png";
+import hero2 from "./hero2.png";
 
 export default {
   collection,
@@ -104,4 +105,5 @@ export default {
   provider2,
   provider3,
   provider4,
+  hero2,
 };
