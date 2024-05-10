@@ -11,8 +11,10 @@
   "dependencies": {
     "@next/font": "14.0.2",
     "@openzeppelin/contracts": "^4.7.3",
+    "axios": "^1.6.8",
     "ether": "^0.0.9",
     "framer-motion": "^11.0.25",
+    "ipfs-http-client": "^60.0.1",
     "next": "14.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
